@@ -1,0 +1,217 @@
+
+/***header-area***/
+
+.header-area{
+	overflow: hidden;
+	position: relative;
+}
+
+.header-area .main-menu{
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-top: 20px;
+	width: 100%
+}
+.header-area .main-menu ul li{
+	margin: 0 10px;
+}
+.header-area .main-menu ul li a{
+	text-transform: uppercase;
+	color: #4d4959;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700px;
+	font-size: 13px;
+	letter-spacing: 1.5px;
+
+}
+
+.header-area .main-menu ul li a:hover{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+}
+
+.header-images img {
+	width: 100%;
+	height: auto;
+}
+
+
+/***intro-area***/
+.intro-area{
+	background: #F7F7F7;
+}
+
+.logo img{
+	margin-top: 100px;
+}
+
+
+.content h2{
+	text-transform: uppercase;
+	color: #5E5F60;
+	font-size: 17px;
+	letter-spacing: 2.5px;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	line-height: 3em;	
+}
+
+.content p{
+	color: #848789;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	display: block;
+	width: 79%;
+	font-size: 15px;
+	margin: 0 auto;
+	line-height: 1.8em;
+}
+
+/***Description-area***/
+
+.cription-area{
+	margin-top: 150px;
+	overflow: hidden;
+}
+
+
+.description-area{
+	overflow: hidden;
+	
+}
+
+.vantage-olive{
+	overflow: hidden;
+}
+
+
+.vintage-oliva .big{
+	background: url("images/vintage-bike.jpg") no-repeat ;
+	min-height: 480px;
+	
+}
+.big img{
+	display: block;
+	width: 113px;
+	height: 118px;
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	padding: 0;
+}
+.icon img{
+	display: block;
+	margin: auto;
+	position: absolute;
+	top: 50px;
+	left: 45%;
+}
+.small h2{
+	margin-top: 100px;
+	text-transform: uppercase;
+	color: #353738;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+}
+
+.small p{
+	width: 320px;
+	line-height: 2em;
+	color: #A7A9AA;
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+ .new-img img{
+ 	position: absolute;
+ 	top:280px;
+ 	left: 0px;
+ }
+
+ .descrip-area{
+ 	height: 480px;
+ }
+
+
+ .new img{
+ 	position: absolute;
+ 	left: 0;
+ 	top: 0;
+ 	width: 100%;
+ }
+
+
+ /***Tweet Area***/
+
+.tweet-area{
+	margin-top: 150px;
+	height: 400px;
+}
+
+ .tweet-icon i{
+ 	color: #56C7EF;
+	font-size: 40px;
+ }
+
+ .load p{
+ 	font-size: 20px;
+ 	color: #A4A5A7;
+ }
+
+
+
+
+/*** portfolio area***/
+
+
+.portfolio-area{
+	overflow: hidden;
+}
+
+
+.portfolio-area img{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+
+}
+
+
+
+/***visitor area***/
+
+.visitor-area{
+	background: #282F35;
+	padding: 120px 0;
+	overflow: hidden;
+}
+
+.visitor-area a{
+	color: #FFFFFF;
+	border: 1px solid#FFFFFF;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+
+/***footer area***/
+
+.mail-area h5{
+	text-transform: uppercase;
+	color: #A4A5A7;
+}
+ 
+
+ 
+
